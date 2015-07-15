@@ -16,3 +16,28 @@ MixedHTSeq and HTSeq are free software: you can redistribute it and/or modify it
 This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
 
 The full text of the GNU General Public License, version 3, can be found here: http://www.gnu.org/licenses/gpl-3.0-standalone.html
+
+Installation Requirements
+-------------------------
+In light of adding some functionality and scripts, here is an updated and fully comprehensive list of all of the required packages (some are prereqs of other packages, but this is what the final list looks like):
+ * argparse
+ * decorator
+ * distribute
+ * ipython
+ * ipython-genutils
+ * matplotlib
+ * mock
+ * nose
+ * numpy
+ * pandas
+ * path.py
+ * pexpect
+ * pickleshare
+ * pyparsing
+ * pysam
+ * python-dateutil
+ * pytz
+ * simplegeneric
+ * six
+ * traitlets
+ * wsgiref
